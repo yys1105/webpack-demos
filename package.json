@@ -1,0 +1,23 @@
+{
+  "name": "webpack-demos",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack"
+  },
+  "devDependencies": {
+    "clean-webpack-plugin": "^0.1.19",
+    "csv-loader": "^2.1.1",
+    "file-loader": "^1.1.11",
+    "html-webpack-plugin": "^3.2.0",
+    "loadash": "^1.0.0",
+    "style-loader": "^0.20.3",
+    "webpack": "^4.5.0",
+    "webpack-cli": "^2.0.14",
+    "xml-loader": "^1.2.1"
+  },
+  "dependencies": {
+    "css-loader": "^0.28.11"
+  }
+}
